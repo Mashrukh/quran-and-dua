@@ -1,5 +1,16 @@
-# quran-and-dua
-Static site using Hugo
+# Quran and Dua
 
-Follow instructions to install Hugo: https://gohugo.io/installation/
-Run `hugo server` to run in localhost.
+A static site built using Hugo.
+
+## Installation Instructions
+
+To install Hugo, follow the instructions available at the official Hugo website:
+
+- [Hugo Installation Guide](https://gohugo.io/installation/)
+
+## Running the Site
+
+To run the site locally, use the following command:
+
+```bash
+hugo server
