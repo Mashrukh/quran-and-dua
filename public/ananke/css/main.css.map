@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/mashr/Documents/Projects/quran-dua/quickstart",
+	"sourceRoot": "C:/Users/mashr/Documents/Projects/quran-dua/quran-and-dua",
 	"sources": [
 		"ananke/css/main.css"
 	],
