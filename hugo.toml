@@ -1,4 +1,4 @@
-title = "Awesome Hugo blog"
+title = "Quran and Dua"
 baseURL = 'https://hba.sid.one/'
 
 # This is what goes in <html lang="">
@@ -74,7 +74,7 @@ theme = "hugo-blog-awesome"
     weight = 30
 
 [Languages.en-gb.params]
-  sitename = "Awesome hugo blog"
+  sitename = "Quran and Dua"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
@@ -99,8 +99,8 @@ theme = "hugo-blog-awesome"
 [Languages.en-gb.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Awesome hugo blog"
-  name = "Sidharth R"
+  intro = "Quran and Dua"
+  name = "Rashid"
   description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
 
 # Allow to override webmanifest options
