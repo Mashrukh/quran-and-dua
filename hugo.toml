@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Quaran and Dua'
+theme = "ananke"
+
+[params]
+  author = "Rashid"
+  description = "Learn Surahs and Duas"
