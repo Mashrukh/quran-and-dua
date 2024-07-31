@@ -112,7 +112,7 @@ theme = "hugo-blog-awesome"
   background_color = "#fff" # by default depend on "params.defaultColor" for "light" or "auto" will be set to "#fff" for dark will be "#131418" (color of dark mode background)
   display = "standalone"
 
-###################################################################
+  ###################################################################
 
 # Allow to override `browserconfig.xml` params (configuration for windows embedded browsers)
 [params.browserconfig]
@@ -120,7 +120,7 @@ theme = "hugo-blog-awesome"
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/hugo-sid"
+url = "https://github.com"
 
 [[params.socialIcons]]
 name = "twitter"
@@ -129,4 +129,3 @@ url = "https://twitter.com"
 [[params.socialIcons]]
 name = "Rss"
 url = "/index.xml"
-
